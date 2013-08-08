@@ -19,9 +19,9 @@ import time
     password 经过了三次SHA1 加密， 且其中加入了 servertime 和 nonce 的值来干扰。
     即： 两次SHA1加密后， 将结果加上 servertime 和 nonce 的值， 再SHA1 算一次。
 '''
-#user,password用户名密码
-username = 'zhangtianyi1234@126.com'
-password = 'mbdhd2009'
+#user,password用户名密码,使用自己注册的sina用户名密码
+username = ''
+password = ''
 
 session = requests.Session()
 #login url登录地址

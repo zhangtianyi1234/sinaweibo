@@ -1,4 +1,5 @@
-### 
+### 代码分类
+```
 # ├── busdb.py 公交换乘代码
 # ├── imageget.py 获取image代码
 # ├── mailsql.py mail数据库
@@ -12,7 +13,7 @@
 # ├── webqq.py  QQ登陆
 # ├── wxalter.py  微信群发
 # └── wx.py
-
+```
 
 ------
 python request写的新浪微博登录，发帖，转发，关注方法，没有使用sina 官方API，使用python request请求完成

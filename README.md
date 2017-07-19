@@ -1,17 +1,17 @@
 ### 
-## ├── busdb.py 公交换乘代码
-## ├── imageget.py 获取image代码
-## ├── mailsql.py mail数据库
-## ├── pop163.py  
-## ├── qun_qzone.py QQ群成员
-## ├── refreshurl.py 刷新url
-## ├── selenium_qq2.py QQ登陆
-## ├── sinaweibo.py   非API实现sina登陆
-## ├── tuitu.py   新浪微博推图刷分
-## ├── urlclick.py url测试点击
-## ├── webqq.py  QQ登陆
-## ├── wxalter.py  微信群发
-## └── wx.py
+# ├── busdb.py 公交换乘代码
+# ├── imageget.py 获取image代码
+# ├── mailsql.py mail数据库
+# ├── pop163.py  
+# ├── qun_qzone.py QQ群成员
+# ├── refreshurl.py 刷新url
+# ├── selenium_qq2.py QQ登陆
+# ├── sinaweibo.py   非API实现sina登陆
+# ├── tuitu.py   新浪微博推图刷分
+# ├── urlclick.py url测试点击
+# ├── webqq.py  QQ登陆
+# ├── wxalter.py  微信群发
+# └── wx.py
 
 
 ------
